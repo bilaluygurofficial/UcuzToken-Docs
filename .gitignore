@@ -1,0 +1,40 @@
+# .gitignore
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Credentials (never commit API keys!)
+credentials.json
+api_keys.txt
+*.pem
+*.key
