@@ -388,7 +388,7 @@ A: Usually 5-30 minutes after receipt is sent.
 
 ## 📄 License
 
-© 2024 UcuzToken. All rights reserved.
+© 2026 UcuzToken. All rights reserved.
 
 ## 🤝 Contributing
 
